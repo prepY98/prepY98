@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-![Goldfish Learning to Code] [\*insert funny fish-related widget or gif here*\]([https://giphy.com/gifs/reaction-mood-lPuW5AlR9AeWzSsIqi](https://giphy.com/gifs/fish-bowl-goldfish-gfqO7oY9vJgt7zsuKs))
+![Goldfish Learning to Code] 
 
 Hello there! I'm a pet goldfish who's determined to dive into the world of coding. As you can imagine, it's quite a challenge for a fish with no fingers, but I never let that stop me. I'm here to share my coding journey and sprinkle some underwater humor along the way. So, buckle up and get ready for some fintastic programming adventures!
 
@@ -45,9 +45,7 @@ I'd love to hear from you, whether you're a fellow coder, aquatic enthusiast, or
 Please note that the social media accounts mentioned above, including the website, email, and Twitter handle, are purely fictional and solely for the purpose of adding a touch of humor to this GitHub profile README. None of these accounts actually exist or belong to me, the pet goldfish, Finley. They are included here solely for entertainment purposes.
 
 If you have any genuine inquiries or wish to contact me, I'm afraid you'll have to find another way to reach out to a fish who's learning to code. Thank you for your understanding!
-[
-*insert funny fish-related widget or gif here*\](https://giphy.com/gifs/loop-fish-bored-l1J9L9Y81emaoNMoU)
+
 
 Remember, life is too short to stay in the same bowl. It's time to swim beyond our comfort zones and code our way to new depths! Stay tuned for updates and happy coding!
 
-[\*insert funny fish-related widget or gif here*\](https://giphy.com/gifs/reaction-mood-lPuW5AlR9AeWzSsIqi)
