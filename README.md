@@ -25,7 +25,7 @@ I'll be sharing my progress, projects, and the occasional underwater adventures 
 
 - 🐟 **FishOS**: A lightweight operating system for aquariums, with features like water temperature control and fish-friendly games.
 - 🌊 **Aquarium Simulator**: Dive into the world of virtual underwater life and experience the daily routine of a goldfish firsthand.
-- 
+
 𝐧𝐨𝐭 𝐫𝐞𝐚𝐥𝐥𝐲 𝐛𝐮𝐭 𝐢𝐦𝐚𝐠𝐢𝐧𝐞 𝐡𝐨𝐰 𝐜𝐨𝐨𝐥 𝐭𝐡𝐚𝐭 𝐰𝐨𝐮𝐥𝐝 𝐛𝐞.
 
 ### Goals for the Future
